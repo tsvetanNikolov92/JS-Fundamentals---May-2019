@@ -7,10 +7,6 @@
 <tr>
   <th>
    <p align="center">
-    №
-  </th>
-  <th>
-   <p align="center">
     :books:Lection
   </th>
   <th>
@@ -20,10 +16,6 @@
 </tr>
   
 <tr>
-  <td>
-   <p align="center">
-    :one:
-  </td>
   <th>
     Basic Syntax, Conditional Statements And Loops
   </th>
@@ -36,10 +28,6 @@
 </tr>
     
 <tr>
-  <td>
-   <p align="center">
-    :two:
-  </td>
   <th>
     Data Types And Variables
   </th>
@@ -52,10 +40,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :three:
-  </td>
   <th>
     Arrays
   </th>
@@ -68,10 +52,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :four:
-  </td>
   <th>
     Methods Functions
   </th>
@@ -84,10 +64,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :five:
-  </td>
   <th>
     Lists Arrays Advanced
   </th>
@@ -100,10 +76,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :six:
-  </td>
   <th>
     Objects And Classes
   </th>
@@ -116,10 +88,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :seven:
-  </td>
   <th>
     Associative Arrays
   </th>
@@ -132,10 +100,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :eight:
-  </td>
   <th>
     Text Processing
   </th>
@@ -148,10 +112,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :nine:
-  </td>
   <th>
     Regular Expressions
   </th>
@@ -164,10 +124,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :one::zero:
-  </td>
   <th>
     Exams Preparation
   </th>
@@ -178,6 +134,7 @@
    </a>
   </td>
 </tr>
+</table>
 
 <tr>
   <td>
@@ -187,7 +144,7 @@
    <td>
     <p align="center">
        <a 
-         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/Certificate">✅
+         href="https://softuni.bg/certificates/details/69143/ef4c14c2">✅
     </a>
    </td>
  </tr>
