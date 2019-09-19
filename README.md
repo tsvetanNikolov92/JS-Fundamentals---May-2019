@@ -19,11 +19,13 @@
     </a>
   </td>
 </tr>
+</table>
 
+<table>
 <tr>
   <td>
    <p align="center">
-   :books:
+   :pencil:
   </td>
   <th>
     Course Schedule
@@ -35,6 +37,7 @@
     </a>
   </td>
 </tr>
+</table>
 
 <tr>
   <th>
@@ -167,10 +170,3 @@
   </td>
 </tr>
 </table>
-
-	
-	
-
-
-
-
