@@ -153,6 +153,24 @@
   </td>
 </tr>
 </table>
+
+<table>
+<tr>
+  <td>
+   <p align="center">
+   :books:
+  </td>
+  <th>
+    Course Schedule
+  </th>
+  <td>
+    <p align="center">
+       <a 
+         href="https://softuni.bg/certificates/details/69143/ef4c14c2">✅
+    </a>
+  </td>
+</tr>
+</table>
 	
 	
 
