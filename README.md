@@ -5,6 +5,38 @@
 
 <table>
 <tr>
+  <td>
+   <p align="center">
+   :pencil:
+  </td>
+  <th>
+    Certificate
+  </th>
+  <td>
+    <p align="center">
+       <a 
+         href="https://softuni.bg/certificates/details/69143/ef4c14c2">✅
+    </a>
+  </td>
+</tr>
+
+<tr>
+  <td>
+   <p align="center">
+   :books:
+  </td>
+  <th>
+    Course Schedule
+  </th>
+  <td>
+    <p align="center">
+       <a 
+         href="https://softuni.bg/certificates/details/69143/ef4c14c2">✅
+    </a>
+  </td>
+</tr>
+
+<tr>
   <th>
    <p align="center">
     :books:Lection
@@ -136,41 +168,6 @@
 </tr>
 </table>
 
-<table>
-<tr>
-  <td>
-   <p align="right">
-   :pencil:
-  </td>
-  <th>
-    Certificate
-  </th>
-  <td>
-    <p align="right">
-       <a 
-         href="https://softuni.bg/certificates/details/69143/ef4c14c2">✅
-    </a>
-  </td>
-</tr>
-</table>
-
-<table>
-<tr>
-  <td>
-   <p align="right">
-   :books:
-  </td>
-  <th>
-    Course Schedule
-  </th>
-  <td>
-    <p align="right">
-       <a 
-         href="https://softuni.bg/certificates/details/69143/ef4c14c2">✅
-    </a>
-  </td>
-</tr>
-</table>
 	
 	
 
