@@ -33,7 +33,7 @@
   <td>
     <p align="center">
        <a 
-         href="https://softuni.bg/certificates/details/69143/ef4c14c2">✅
+         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/Course%20Schedule">✅
     </a>
   </td>
 </tr>
