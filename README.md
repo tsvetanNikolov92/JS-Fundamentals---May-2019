@@ -3,8 +3,8 @@
 
 # <a href="https://softuni.bg/trainings/2441/js-fundamentals-september-2019"><p align="center">:book:JS Fundamentals<p></a>
 
-<p align="center"><table>
-<tr>
+<table>
+<p align="center"><tr>
   <td>
    <p align="center">
    :pencil:
