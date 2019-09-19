@@ -33,7 +33,7 @@
   <td>
     <p align="center">
        <a 
-         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/Course%20Schedule">✅
+         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Course%20Schedule">✅
     </a>
   </td>
 </tr>
@@ -58,7 +58,7 @@
   <td>
    <p align="center">
        <a 
-         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/Lections/BASIC%20SYNTAX%2C%20CONDITIONAL%20STATEMENTS%20AND%20LOOPS/Homework">✅
+         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Basic%20Syntax%2C%20Conditional%20Statements%20And%20Loops/Homework">✅
          </a>
   </td>
 </tr>
@@ -70,7 +70,7 @@
   <td>
    <p align="center">
       <a 
-         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/Lections/DATA%20TYPES%20AND%20VARIABLES/Homework">✅
+         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Data%20Types%20And%20Variables/Homework">✅
    </a>
   </td>
 </tr>
@@ -82,7 +82,7 @@
   <td>
    <p align="center">
       <a 
-         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/Lections/ARRAYS/Homework">✅
+         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Arrays/Homework">✅
    </a>
   </td>
 </tr>
@@ -94,7 +94,7 @@
   <td>
    <p align="center">
       <a 
-         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/Lections/METHODS%20FUNCTIONS/Homework">✅
+         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Methods%20Functions/Homework">✅
    </a>
   </td>
 </tr>
@@ -106,7 +106,7 @@
   <td>
    <p align="center">
       <a 
-         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/Lections/Lists%20Arrays%20Advanced/Homework">✅
+         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Lists%20Arrays%20Advanced/Homework">✅
    </a>
   </td>
 </tr>
@@ -118,7 +118,7 @@
   <td>
    <p align="center">
       <a 
-         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/Lections/OBJECTS%20AND%20CLASSES/Homework">✅
+         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Objects%20And%20Classes/Homework">✅
    </a>
   </td>
 </tr>
@@ -130,7 +130,7 @@
   <td>
    <p align="center">
       <a 
-         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/Lections/ASSOCIATIVE%20ARRAYS/Homework">✅
+         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Associative%20Arrays/Homework">✅
    </a>
   </td>
 </tr>
@@ -142,7 +142,7 @@
   <td>
    <p align="center">
       <a 
-         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/Lections/TEXT%20PROCESSING/Homework">✅
+         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Text%20Processing/Homework">✅
    </a>
   </td>
 </tr>
@@ -154,7 +154,7 @@
   <td>
    <p align="center">
       <a 
-         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/Lections/REGULAR%20EXPRESSIONS/Homework">✅
+         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Regular%20Expressions/Homework">✅
    </a>
   </td>
 </tr>
@@ -166,7 +166,7 @@
   <td>
    <p align="center">
       <a 
-         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/My%20exams%20solutions">✅
+         href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/My%20exams%20solutions">✅
    </a>
   </td>
 </tr>
