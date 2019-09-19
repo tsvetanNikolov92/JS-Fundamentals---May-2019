@@ -146,7 +146,7 @@
     Certificate
   </th>
   <td>
-    <p align="center">
+    <p align="right">
        <a 
          href="https://softuni.bg/certificates/details/69143/ef4c14c2">✅
     </a>
@@ -164,7 +164,7 @@
     Course Schedule
   </th>
   <td>
-    <p align="center">
+    <p align="right">
        <a 
          href="https://softuni.bg/certificates/details/69143/ef4c14c2">✅
     </a>
