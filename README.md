@@ -1,15 +1,10 @@
 # <a href="https://softuni.bg"><p align="center">
- <p align="center"><img src="https://www.google.com/search?q=softuni+bulgaria&sxsrf=ACYBGNR8rvR79um9RjttJNGJ-SVbgC8KSA:1568856403175&source=lnms&tbm=isch&sa=X&ved=0ahUKEwigofXE3dvkAhUwiIsKHTrwCmwQ_AUIEygC&biw=1522&bih=652&dpr=1.25#imgrc=9-RAV106R4esDM:" width = 250 /></p><p></a>
+ <p align="center"><img src="http://spaceappschallengebulgaria.eu/sites/default/files/softuni.png" width = 250 /></p><p></a>
 
-# <a href="https://softuni.bg/trainings/2441/js-fundamentals-september-2019"><p align="center">:book:JS Advanced<p></a>
+# <a href="https://softuni.bg/trainings/2441/js-fundamentals-september-2019"><p align="center">:book:JS Fundamentals<p></a>
 
 <table>
 <tr>
-  <th>
-   <p align="center">
-    №
-  </th>
-  <th>
    <p align="center">
     :books:Lection
   <th>
@@ -19,10 +14,6 @@
 </tr>
   
 <tr>
-  <td>
-   <p align="center">
-    :one:
-  </td>
   <th>
     Basic Syntax, Conditional Statements And Loops
   </th>
@@ -35,10 +26,6 @@
 </tr>
     
 <tr>
-  <td>
-   <p align="center">
-    :two:
-  </td>
   <th>
     Data Types And Variables
   </th>
@@ -51,10 +38,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :three:
-  </td>
   <th>
     Arrays
   </th>
@@ -67,10 +50,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :four:
-  </td>
   <th>
     Methods Functions
   </th>
@@ -83,10 +62,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :five:
-  </td>
   <th>
     Lists Arrays Advanced
   </th>
@@ -99,10 +74,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :six:
-  </td>
   <th>
     Objects And Classes
   </th>
@@ -115,10 +86,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :seven:
-  </td>
   <th>
     Associative Arrays
   </th>
@@ -131,10 +98,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :eight:
-  </td>
   <th>
     Text Processing
   </th>
@@ -147,10 +110,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :nine:
-  </td>
   <th>
     Regular Expressions
   </th>
@@ -163,10 +122,6 @@
 </tr>
 
 <tr>
-  <td>
-   <p align="center">
-    :ten:
-  </td>
   <th>
     Exams Preparation
   </th>
