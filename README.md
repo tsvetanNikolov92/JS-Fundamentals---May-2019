@@ -5,8 +5,18 @@
 
 <table>
 <tr>
+  <th>
+   <p align="center">
+    №
+  </th>
+  <th>
    <p align="center">
     :books:Lection
+  </th>
+  <th>
+   <p align="center">
+    :pencil:Lab
+  </th>
   <th>
    <p align="center">
    :pencil:Exercise
