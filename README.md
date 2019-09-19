@@ -15,10 +15,6 @@
   </th>
   <th>
    <p align="center">
-    :pencil:Lab
-  </th>
-  <th>
-   <p align="center">
    :pencil:Exercise
   </th>
 </tr>
