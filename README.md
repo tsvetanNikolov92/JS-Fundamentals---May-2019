@@ -3,17 +3,17 @@
 
 # <a href="https://softuni.bg/trainings/2441/js-fundamentals-september-2019"><p align="center">:book:JS Fundamentals<p></a>
 
-<table>
+<p align="center"><table>
 <tr>
   <td>
-   <p align="right">
+   <p align="center">
    :pencil:
   </td>
   <th>
     Certificate
   </th>
   <td>
-    <p align="right">
+    <p align="center">
          <a 
          href="https://softuni.bg/certificates/details/69143/ef4c14c2">✅
     </a>
@@ -24,14 +24,14 @@
 <table>
 <tr>
   <td>
-   <p align="right">
+   <p align="center">
    :pencil:
   </td>
   <th>
     Course Schedule
   </th>
   <td>
-    <p align="right">
+    <p align="center">
          <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Course%20Schedule">✅
     </a>
@@ -42,11 +42,11 @@
 <table>
 <tr>
   <th>
-   <p align="right">
+   <p align="center">
     :books:Lection
   </th>
   <th>
-   <p align="right">
+   <p align="center">
    :pencil:Exercise
   </th>
 </tr>
@@ -56,7 +56,7 @@
     Basic Syntax, Conditional Statements And Loops
   </th>
   <td>
-   <p align="right">
+   <p align="center">
          <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Basic%20Syntax%2C%20Conditional%20Statements%20And%20Loops/Homework">✅
     </a>
@@ -68,7 +68,7 @@
     Data Types And Variables
   </th>
   <td>
-   <p align="right">
+   <p align="center">
          <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Data%20Types%20And%20Variables/Homework">✅
    </a>
@@ -80,7 +80,7 @@
     Arrays
   </th>
   <td>
-   <p align="right">
+   <p align="center">
          <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Arrays/Homework">✅
    </a>
@@ -92,7 +92,7 @@
     Methods Functions
   </th>
   <td>
-   <p align="right">
+   <p align="center">
          <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Methods%20Functions/Homework">✅
    </a>
@@ -104,7 +104,7 @@
     Lists Arrays Advanced
   </th>
   <td>
-   <p align="right">
+   <p align="center">
          <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Lists%20Arrays%20Advanced/Homework">✅
    </a>
@@ -116,7 +116,7 @@
     Objects And Classes
   </th>
   <td>
-   <p align="right">
+   <p align="center">
          <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Objects%20And%20Classes/Homework">✅
    </a>
@@ -128,7 +128,7 @@
     Associative Arrays
   </th>
   <td>
-   <p align="right">
+   <p align="center">
          <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Associative%20Arrays/Homework">✅
    </a>
@@ -140,7 +140,7 @@
     Text Processing
   </th>
   <td>
-   <p align="right">
+   <p align="center">
          <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Text%20Processing/Homework">✅
    </a>
@@ -152,7 +152,7 @@
     Regular Expressions
   </th>
   <td>
-   <p align="right">
+   <p align="center">
          <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Regular%20Expressions/Homework">✅
    </a>
@@ -164,7 +164,7 @@
     Exams Preparation
   </th>
   <td>
-   <p align="right">
+   <p align="center">
          <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/My%20exams%20solutions">✅
    </a>
