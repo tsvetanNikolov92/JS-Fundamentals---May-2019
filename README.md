@@ -138,21 +138,20 @@
 
 <table>
 <tr>
- <th>
-  <p align="center">
-  :pencil:
- </th>
   <td>
-    <th>
-     Certificate
-    </th>
+   <p align="center">
+   :pencil:
+  </td>
+  <th>
+    Certificate
+  </th>
   <td>
     <p align="center">
        <a 
          href="https://softuni.bg/certificates/details/69143/ef4c14c2">✅
     </a>
-   </td>
- </tr>
+  </td>
+</tr>
 </table>
 	
 	
