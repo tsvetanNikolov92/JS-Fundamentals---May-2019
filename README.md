@@ -166,7 +166,7 @@
 <tr>
   <td>
    <p align="center">
-    :eleven:
+    :one::zero:
   </td>
   <th>
     Exams Preparation
@@ -181,14 +181,15 @@
 
 <tr>
   <td>
-    <p align="center">
+    <th>
      Certificate
-   </td>
-   <th>
+   </th>
+   <td>
     <p align="center">
        <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/Certificate">✅
     </a>
+   </td>
  </tr>
 	
 	
