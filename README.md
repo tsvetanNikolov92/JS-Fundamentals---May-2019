@@ -6,15 +6,15 @@
 <table>
 <tr>
   <td>
-   <p align="center">
+   <p align="right">
    :pencil:
   </td>
   <th>
     Certificate
   </th>
   <td>
-    <p align="center">
-       <a 
+    <p align="right">
+         <a 
          href="https://softuni.bg/certificates/details/69143/ef4c14c2">✅
     </a>
   </td>
@@ -24,15 +24,15 @@
 <table>
 <tr>
   <td>
-   <p align="center">
+   <p align="right">
    :pencil:
   </td>
   <th>
     Course Schedule
   </th>
   <td>
-    <p align="center">
-       <a 
+    <p align="right">
+         <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Course%20Schedule">✅
     </a>
   </td>
@@ -42,11 +42,11 @@
 <table>
 <tr>
   <th>
-   <p align="center">
+   <p align="right">
     :books:Lection
   </th>
   <th>
-   <p align="center">
+   <p align="right">
    :pencil:Exercise
   </th>
 </tr>
@@ -56,10 +56,10 @@
     Basic Syntax, Conditional Statements And Loops
   </th>
   <td>
-   <p align="center">
-       <a 
+   <p align="right">
+         <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Basic%20Syntax%2C%20Conditional%20Statements%20And%20Loops/Homework">✅
-         </a>
+    </a>
   </td>
 </tr>
     
@@ -68,8 +68,8 @@
     Data Types And Variables
   </th>
   <td>
-   <p align="center">
-      <a 
+   <p align="right">
+         <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Data%20Types%20And%20Variables/Homework">✅
    </a>
   </td>
@@ -80,8 +80,8 @@
     Arrays
   </th>
   <td>
-   <p align="center">
-      <a 
+   <p align="right">
+         <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Arrays/Homework">✅
    </a>
   </td>
@@ -92,8 +92,8 @@
     Methods Functions
   </th>
   <td>
-   <p align="center">
-      <a 
+   <p align="right">
+         <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Methods%20Functions/Homework">✅
    </a>
   </td>
@@ -104,8 +104,8 @@
     Lists Arrays Advanced
   </th>
   <td>
-   <p align="center">
-      <a 
+   <p align="right">
+         <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Lists%20Arrays%20Advanced/Homework">✅
    </a>
   </td>
@@ -116,8 +116,8 @@
     Objects And Classes
   </th>
   <td>
-   <p align="center">
-      <a 
+   <p align="right">
+         <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Objects%20And%20Classes/Homework">✅
    </a>
   </td>
@@ -128,8 +128,8 @@
     Associative Arrays
   </th>
   <td>
-   <p align="center">
-      <a 
+   <p align="right">
+         <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Associative%20Arrays/Homework">✅
    </a>
   </td>
@@ -140,8 +140,8 @@
     Text Processing
   </th>
   <td>
-   <p align="center">
-      <a 
+   <p align="right">
+         <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Text%20Processing/Homework">✅
    </a>
   </td>
@@ -152,8 +152,8 @@
     Regular Expressions
   </th>
   <td>
-   <p align="center">
-      <a 
+   <p align="right">
+         <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/Lections/Regular%20Expressions/Homework">✅
    </a>
   </td>
@@ -164,8 +164,8 @@
     Exams Preparation
   </th>
   <td>
-   <p align="center">
-      <a 
+   <p align="right">
+         <a 
          href="https://github.com/tsvetanNikolov92/JS-Fundamentals---May-2019/tree/master/JS%20Fundamentals%20--%20May-2019/My%20exams%20solutions">✅
    </a>
   </td>
