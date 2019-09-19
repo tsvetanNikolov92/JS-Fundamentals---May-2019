@@ -138,6 +138,10 @@
 
 <table>
 <tr>
+ <th>
+  <p align="center">
+  :pencil:
+ </th>
   <td>
     <th>
      Certificate
