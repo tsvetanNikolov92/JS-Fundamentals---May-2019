@@ -39,6 +39,7 @@
 </tr>
 </table>
 
+<table>
 <tr>
   <th>
    <p align="center">
